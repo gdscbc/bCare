@@ -1,0 +1,386 @@
+[
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_home.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_breastfeeding_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/breastfeeding_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_log_diaper_change.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_log_diaper_change.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_dashboard_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/dashboard_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_stroked_course_image_placeholder.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/stroked_course_image_placeholder.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avd_featured_off.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avd_featured_off.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avd_search_on.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avd_search_on.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_activity_register_baby.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/activity_register_baby.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_asl_my_courses.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/asl_my_courses.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_learn_image_scrim.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/learn_image_scrim.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_sheet_expand.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/sheet_expand.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_local_library_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/local_library_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_playlist.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_playlist.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_lockup_blue.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_lockup_blue.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_stop_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_stop_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avd_featured_on.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avd_featured_on.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_medication_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/medication_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_featured.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_featured.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_checkmark.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_checkmark.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_add_alt.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_add_alt.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_water_drop_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_water_drop_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_pause_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_pause_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_avatar_placeholder.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_avatar_placeholder.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avatar_outline.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avatar_outline.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_topic_foreground.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/topic_foreground.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_asl_featured.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/asl_featured.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_featured.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_featured.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_dirty_lens_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_dirty_lens_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_small_component_foreground.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/small_component_foreground.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_lockup_white.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_lockup_white.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_log_list_item.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/log_list_item.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_compass.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_compass.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_bed_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/bed_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_log_nursing.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_log_nursing.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avd_my_courses_on.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avd_my_courses_on.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_check_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_check_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_boy_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_boy_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_arrow_down.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_arrow_down.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_dashboard.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_add.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_featured_item.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/featured_item.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_pause.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_pause.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_account.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_account.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_course_image_placeholder.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/course_image_placeholder.xml"
+    },
+    {
+        "merged": "com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_featured.xml.flat",
+        "source": "com.gdscsc.mybaby.app-main-49:/layout/fragment_featured.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avd_my_courses_off.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avd_my_courses_off.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_gear.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_gear.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_my_courses.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_my_courses.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_girl_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_girl_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_add_photo_alternate_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_add_photo_alternate_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_whatshot_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_whatshot_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_camera_alt_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_camera_alt_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.gdscsc.mybaby.app-merged_res-47:/drawable_babycareimg.jpg.flat",
+        "source": "com.gdscsc.mybaby.app-main-49:/drawable/babycareimg.jpg"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_search.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_add_circle_outline_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_child_care_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/child_care_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_asl_search.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/asl_search.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_avd_search_off.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/avd_search_off.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_play.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_play.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_course.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_course.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_learn.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_learn.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_pediatrics_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/pediatrics_48px.xml"
+    },
+    {
+        "merged": "com.gdscsc.mybaby.app-merged_res-47:/layout_featured_item.xml.flat",
+        "source": "com.gdscsc.mybaby.app-main-49:/layout/featured_item.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_lesson_video_scrim.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/lesson_video_scrim.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_choose_log.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_choose_log.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_logo.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_logo.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_divider.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/divider.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_home_48px.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/home_48px.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_inset_divider.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/inset_divider.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_baseline_play_arrow_24.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/baseline_play_arrow_24.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/layout_fragment_log_sleep.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/layout/fragment_log_sleep.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_seekbar_track.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/seekbar_track.xml"
+    },
+    {
+        "merged": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-merged_res-47:/drawable_ic_back.xml.flat",
+        "source": "/home/moise/.gradle/daemon/7.5/com.gdscsc.mybaby.app-main-49:/drawable/ic_back.xml"
+    }
+]
