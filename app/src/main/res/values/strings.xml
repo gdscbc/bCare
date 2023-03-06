@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">MyBaby</string>
+    <string name="app_name">bCare</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Medication</string>
     <string name="title_notifications">Learn</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fab_content_description">Log Nursing or Sleep or Diaper change</string>
+    <string name="log_day">%s</string>
+    <string name="log_day_num">%s</string>
+    <string name="log_day_month">%s</string>
 </resources>

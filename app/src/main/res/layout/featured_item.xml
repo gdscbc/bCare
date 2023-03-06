@@ -20,14 +20,13 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_margin="8dp"
-    android:foreground="?attr/selectableItemBackground"
-    android:transitionName="@{course.name}">
+    >
 
     <ImageView
         android:id="@+id/course_image"
         android:layout_width="0dp"
         android:layout_height="0dp"
-        android:contentDescription="@{course.thumbContentDesc}"
+        android:contentDescription="Course Content description"
         android:scaleType="centerCrop"
         app:layout_constraintDimensionRatio="4:3"
         app:layout_constraintEnd_toEndOf="parent"
@@ -59,10 +58,10 @@
       android:layout_height="wrap_content"
       android:gravity="center"
       android:padding="8dp"
-      android:text="@{course.subject}"
+      android:text="Course subject"
       android:textAllCaps="true"
       android:textAppearance="?attr/textAppearanceOverline"
-      android:textColor="?attr/colorPrimary"
+      android:textColor="@color/primaryColor"
       app:layout_constraintEnd_toEndOf="parent"
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintTop_toBottomOf="@id/course_instructor"
@@ -74,7 +73,7 @@
       android:layout_height="wrap_content"
       android:gravity="center"
       android:paddingHorizontal="8dp"
-      android:text="@{course.name}"
+      android:text="Course name"
       android:textAppearance="?attr/textAppearanceSubtitle1"
       app:layout_constraintEnd_toEndOf="parent"
       app:layout_constraintStart_toStartOf="parent"

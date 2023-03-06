@@ -2,13 +2,10 @@
 <layout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools">
-
     <data>
-
         <variable
-            name="log"
+            name="logger"
             type="com.gdscsc.bCare.data.Log" />
-
         <variable
             name="clickHandler"
             type="com.gdscsc.bCare.ui.log.LogAdapter.LogClickView" />
@@ -46,7 +43,7 @@
                         android:id="@+id/dateDay"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@{@string/log_day(log.date.dayName)}"
+                        android:text="@{@string/log_day(log.date.)}"
                         android:textColor="@color/primaryColor"
                         android:textSize="@dimen/text_size_medium"
                         tools:text="Thu" />
@@ -55,18 +52,18 @@
                         android:id="@+id/dateDayNum"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@{@string/log_day(log.date.dayNum)}"
                         android:textColor="@color/primaryColor"
                         android:textSize="@dimen/text_size_x_large"
+                        android:text="@string/log_day_num"
                         tools:text="09" />
 
                     <TextView
                         android:id="@+id/dateMonth"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@{@string/log_day(log.date.month)}"
                         android:textColor="@color/primaryColor"
                         android:textSize="@dimen/text_size_medium"
+                        android:text="@string/log_day_month"
                         tools:text="Feb" />
                 </LinearLayout>
 

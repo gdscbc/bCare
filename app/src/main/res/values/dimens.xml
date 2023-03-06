@@ -21,12 +21,23 @@
   <dimen name="grid_3">24dp</dimen>
   <dimen name="grid_4">32dp</dimen>
 
-  <dimen name="card_elevation">1dp</dimen>
+  <dimen name="card_elevation">4dp</dimen>
   <dimen name="divider_inset">128dp</dimen>
   <dimen name="divider_height">1dp</dimen>
 
   <integer name="featured_grid_columns">2</integer>
   <integer name="onboarding_topics_rows">2</integer>
   <dimen name="onboarding_topics_height">160dp</dimen>
-
+  <dimen name="padding_normal">2dp</dimen>
+  <dimen name="padding_medium">4dp</dimen>
+  <dimen name="padding_large">8dp</dimen>
+  <dimen name="margin_normal">2dp</dimen>
+  <dimen name="margin_medium">4dp</dimen>
+  <dimen name="margin_large">8dp</dimen>
+  <dimen name="btn_margin">4dp</dimen>
+  <dimen name="small_text_size">12sp</dimen>
+  <dimen name="text_size_medium">16sp</dimen>
+  <dimen name="text_size_large">32dp</dimen>
+  <dimen name="text_size_x_large">50sp</dimen>
+  <dimen name="text_size_xx_large">64sp</dimen>
 </resources>
