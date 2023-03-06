@@ -16,6 +16,10 @@
 
 package com.gdscsc.bCare.ui.learn
 
+import android.view.View
+import androidx.recyclerview.widget.RecyclerView
+import com.gdscsc.bCare.databinding.FeaturedItemBinding
+
 class FeaturedAdapter{//(
 //    private val onClick: CourseViewClick
 //) : ListAdapter<Course, FeaturedViewHolder>(CourseDiff) {
