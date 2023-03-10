@@ -3,7 +3,7 @@ package com.gdscsc.bCare.utils
 import java.text.SimpleDateFormat
 import java.util.*
 
-class LogDate {
+class RecordDate {
     var dayName: String
     var dayNum: String
     var month: String
@@ -11,8 +11,8 @@ class LogDate {
 
     init {
         val date = Date()
-        var dateFormat = SimpleDateFormat("MM-dd-E-y")
-        var dateString: String = dateFormat.format(date)
+        val dateFormat = SimpleDateFormat("MM-dd-E-", Locale.getDefault()) // Needs to test with different locales
+        val dateString: String = dateFormat.format(date)
         val dateParts = dateString.split("-")
         dayName = dateParts[2]
         dayNum = dateParts[1]
