@@ -1,16 +1,20 @@
 package com.gdscsc.bCare.utils
 
 import java.text.SimpleDateFormat
+import java.time.LocalDateTime
+import java.time.OffsetDateTime
+import java.time.ZoneOffset
+import java.time.temporal.Temporal
 import java.util.*
 
-class RecordDate {
+class InfoDate (startTime: LocalDateTime) {
     var dayName: String
     var dayNum: String
     var month: String
     var year: String
 
     init {
-        val date = Date()
+        val date = Date.from(startTime.toInstant(ZoneOffset.UTC ))
         val dateFormat = SimpleDateFormat("MM-dd-E-", Locale.getDefault()) // Needs to test with different locales
         val dateString: String = dateFormat.format(date)
         val dateParts = dateString.split("-")

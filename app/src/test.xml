@@ -5,7 +5,7 @@
     <data>
         <variable
             name="logger"
-            type="com.gdscsc.bCare.data.Log" />
+            type="com.gdscsc.bCare.data.NursingInfo" />
         <variable
             name="clickHandler"
             type="com.gdscsc.bCare.ui.log.LogAdapter.LogClickView" />
