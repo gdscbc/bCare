@@ -1,4 +1,4 @@
-package com.gdscsc.bCare
+package com.gdscsc.bCare.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
