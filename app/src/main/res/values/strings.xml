@@ -7,4 +7,5 @@
     <string name="log_day">%s</string>
     <string name="log_day_num">%s</string>
     <string name="log_day_month">%s</string>
+    <string name="title_activity_main">MainActivity</string>
 </resources>
