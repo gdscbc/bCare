@@ -7,5 +7,6 @@ data class SleepInfo(
     var startTime: LocalDateTime,
     var endTime: LocalDateTime,
     var selfWokeUP: Boolean,
-    var date: InfoDate = InfoDate(startTime)
+    var date: InfoDate = InfoDate(startTime),
+
 )
