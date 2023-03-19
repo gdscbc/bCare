@@ -8,4 +8,13 @@
     <string name="log_day_num">%s</string>
     <string name="log_day_month">%s</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="add_icon_description">Add new info</string>
+    <string name="nurse_btn_description">Nurse Button</string>
+    <string name="time_slept">Total Time slept: %s</string>
+    <string name="time_nursed">Total time nursed: %s</string>
+    <string name="diaper_changed">Changed diaper %s times</string>
+    <string name="profile">Profile</string>
+    <string name="medication_screen">Medication</string>
+    <string name="notes">Notes</string>
+    <string name="title_activity_care">CareActivity</string>
 </resources>
