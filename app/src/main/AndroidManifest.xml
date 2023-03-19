@@ -12,6 +12,11 @@
         android:theme="@style/Theme.bCare"
         tools:targetApi="31">
         <activity
+            android:name=".ui.CareActivity"
+            android:theme="@style/Theme.Material3.DayNight.NoActionBar"
+            android:exported="false"
+            android:label="@string/title_activity_care" />
+        <activity
             android:name=".ui.MainActivity"
             android:exported="true"
             android:label="@string/title_activity_main"
